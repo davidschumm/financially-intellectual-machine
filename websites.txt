@@ -1,0 +1,8 @@
+Reciept scanner
+https://python.plainenglish.io/document-scanner-python-64b73b0fed31
+https://www.dynamsoft.com/codepool/web-document-scanner-opencv-python.html
+
+Robinhood Api stuff
+https://algotrading101.com/learn/robinhood-api-guide/#:~:text=%20How%20do%20I%20get%20started%20with%20the,and%20your_password%20should%20be%20your%20username...%20More%20
+http://www.robin-stocks.com/en/latest/robinhood.html
+https://github.com/jmfernandes/robin_stocks
